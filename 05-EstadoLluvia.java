@@ -15,8 +15,6 @@
  */
 package org.japo.java.main;
 
-import java.io.PrintStream;
-
 /**
  *
  * @author Mireia Oliver García - mireia.oliver.11@gmail.com
