@@ -19,9 +19,10 @@ package org.japo.java.main;
  *
  * @author Mireia Oliver García - mireia.oliver.11@gmail.com
  */
+
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("1969");
+        System.out.printf("%d%n", 1969);
     }
 }
