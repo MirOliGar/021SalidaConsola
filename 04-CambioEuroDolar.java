@@ -22,6 +22,6 @@ package org.japo.java.main;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("1€ equivale a 1.18 dólares.");
+        System.out.printf("%.2f%n", 1.18);
     }
 }
